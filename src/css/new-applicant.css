@@ -1,0 +1,5 @@
+.card .card-header {
+    z-index: 3!important;
+    top: -20px !important;
+    opacity: 0.92 !important;
+}
